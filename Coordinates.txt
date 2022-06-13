@@ -11,8 +11,14 @@ Coordinates
 
 4 unknown
 
-5
-6
+5 unknown
+
+6 poly
+    (96, 175,
+    83,198,
+    165,246
+    178,222)
+    
 7
 8
 9
