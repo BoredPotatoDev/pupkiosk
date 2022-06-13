@@ -125,7 +125,15 @@ Coordinates
 34 circle
     (638,208,
     7)
-35
+
+35 poly (Sampaguita Building - Univ Canteen)
+    (116,253,
+    149,273,
+    129,306,
+    106,292,
+    119,274,
+    106,268,
+    116,253)
 36
 37
 38
