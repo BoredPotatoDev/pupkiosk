@@ -161,7 +161,7 @@ Coordinates
     (142,240,
      148,262)
 
-30 circle (Linear Park)!
+30 circle (Linear Park)
     (114,335,7)
 
 31 circle (Mural Brass Sculpture)!
