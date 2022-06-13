@@ -155,7 +155,12 @@ Coordinates
     (142,457,
      156,509)
 
-28 Access Road
+28 poly (Access Road)
+    (520,242,
+    527,253,
+    338,359,
+    373,350)
+
 
 29 rect (Student Canteen)
     (142,240,
