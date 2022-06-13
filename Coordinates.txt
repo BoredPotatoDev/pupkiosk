@@ -1,11 +1,11 @@
 Coordinates
-1 (done)
+1 Done (Ampitheater) 
 
-2 rect
+2 rect (Water Pump Facility)
     (175,40,
     198,59)
 
-3 rect
+3 rect (Campus Development and Maintenance Building)
     (211,480,
     266,496)
 
@@ -13,7 +13,7 @@ Coordinates
 
 5 unknown
 
-6 poly
+6 poly (Charlie del Rosario Building)
     (96,175,
     83,198,
     165,246
@@ -21,22 +21,22 @@ Coordinates
     
 7 unknown
 
-8 circle
+8 circle (Flag Pole)
     (368,305,10)
 
-9 poly
+9 poly (Grandstand)
     (476,291,
     488,301,
     449,360,
     435,351)
 
-10 rect
+10 rect (Gymnasium and Sports Center)
     (467,56,
     579,114)
 
-11 (done)
+11 Done
 
-12 poly
+12 poly (Laboratory Highschool)
     (164,94,
     187,193,
     182,204,
@@ -44,7 +44,7 @@ Coordinates
     70,109,
     103,59)
 
-13 poly
+13 poly (Lagoon)
     (237,268,
     312,260,
     327,238,
@@ -54,7 +54,7 @@ Coordinates
     289,195,
     265,245)
 
-14 poly
+14 poly (Dome)
     (247,328,
     269,328,
     289,362,
@@ -63,9 +63,12 @@ Coordinates
     224,362)
 
 15 (done)
+
 16 
+
 17
-18 poly 
+
+18 poly (West Wing)
    (225,363,
     155,320,
     158,313,
@@ -78,9 +81,10 @@ Coordinates
     247,328,
     225,363)
 
-19 circle
+19 circle (Main Gate)
     (638,230,7)
-20 circle
+
+20 circle (Freedom Park)
     (384,282,7)
 
 21 (done)
@@ -90,32 +94,32 @@ Coordinates
 23 (done)
 
 24
-25 rect
+25 rect (Physical Education Building)
     (325, 46,
     352,145)
 
-26 circle
-    (55,401,
-    7)
-27 rect
+26 circle (Pasig River)
+    (55,401,7)
+
+27 rect (PUP Sta. Mesa Ferry Station)
     (142,457,
      156,509)
 
 28 unknown
-29 rect
+
+29 rect (Student Canteen)
     (142,240,
      148,262)
 
-30 circle
-    (114,335, 
-    7)
+30 circle (Linear Park)
+    (114,335,7)
 
-31 circle
-    (639, 251,
-    7)
+31 circle (Mural Brass Sculpture)
+    (639,251,7)
 
 32 (done)
-33 poly
+
+33 poly (Property Building)
     (46,40,
     87,39,
     87,47,
@@ -129,8 +133,7 @@ Coordinates
     46,40)
     
 34 circle
-    (638,208,
-    7)
+    (638,208,7)
 
 35 poly (Sampaguita Building - Univ Canteen)
     (116,253,
