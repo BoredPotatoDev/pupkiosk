@@ -134,7 +134,10 @@ Coordinates
     119,274,
     106,268,
     116,253)
-36
+36 circle (Gazebo)
+    (495,247,
+    7)
+    
 37
 
 38 rect (Tennis Court)
