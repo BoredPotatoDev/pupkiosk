@@ -132,7 +132,7 @@ Coordinates
     46,48,
     46,40)
     
-34 circle
+34 circle (Pylon)
     (638,208,7)
 
 35 poly (Sampaguita Building - Univ Canteen)
