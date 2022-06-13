@@ -1,6 +1,5 @@
 Coordinates
 1 (done)
-<<<<<<< HEAD
 
 2 rect
     (175,40,
@@ -20,13 +19,6 @@ Coordinates
     165,246
     178,222)
     
-=======
-2
-3
-4
-5
-6
->>>>>>> ee16f88eaa7578ca38e525c5d4e227915b4ce0fa
 7
 8
 9
