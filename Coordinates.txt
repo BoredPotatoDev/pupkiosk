@@ -9,7 +9,7 @@ Coordinates
     (211,480,
     266,496)
 
-4 rect (Catwalk)
+4 poly (Catwalk)
     (448,220,
     626,223,
     626,237,
