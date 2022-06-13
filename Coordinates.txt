@@ -108,6 +108,10 @@ Coordinates
 35
 36
 37
-38
+
+38 rect (Tennis Court)
+    (500,144,
+    552,179)
+
 39
 40
