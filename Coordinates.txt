@@ -103,8 +103,11 @@ Coordinates
 30 circle
     (114,335, 
     7)
-    
-31
+
+31 circle
+    (639, 251,
+    7)
+
 32 (done)
 33
 34
