@@ -164,7 +164,7 @@ Coordinates
 30 circle (Linear Park)
     (114,335,7)
 
-31 circle (Mural Brass Sculpture)!
+31 circle (Mural Brass Sculpture)*
     (639,251,7)
 
 32 (done)
@@ -185,7 +185,7 @@ Coordinates
 34 circle (Pylon)
     (638,208,7)
 
-35 poly (Sampaguita Building - Univ Canteen)!
+35 poly (Sampaguita Building - Univ Canteen)*
     (116,253,
     149,273,
     129,306,
