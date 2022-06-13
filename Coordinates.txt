@@ -115,7 +115,25 @@ Coordinates
 
 23 (done)
 
-24
+24 poly (Track and Football Oval)
+    (454,378,
+    512,297,
+    544,281,
+    561,280,
+    584,289,
+    598,302,
+    610,329,
+    607,360,
+    550,444,
+    526,460,
+    506,463,
+    486,460,
+    472,452,
+    457,436,
+    451,423,
+    448,402,
+    454,378)
+
 25 rect (Physical Education Building)
     (325, 46,
     352,145)
@@ -154,7 +172,7 @@ Coordinates
     46,48,
     46,40)
     
-34 circle
+34 circle (Pylon)
     (638,208,7)
 
 35 poly (Sampaguita Building - Univ Canteen)
@@ -190,3 +208,6 @@ Coordinates
     )
 
 40
+40 circle (Covered Walkway)
+    (643,158,
+    7)
