@@ -211,7 +211,6 @@ Coordinates
      195,78
     )
 
-40
 40 circle (Covered Walkway)
     (643,158,
     7)
