@@ -23,7 +23,9 @@ Coordinates
     165,246
     178,222)
     
-7 unknown
+7 rect (East Gate)
+    (619,458,
+    644,476)
 
 8 circle (Flag Pole)
     (368,305,10)
