@@ -8,8 +8,9 @@ Coordinates
 3 rect
     (211,480,
     266,496)
-    
-4
+
+4 unknown
+
 5
 6
 7
