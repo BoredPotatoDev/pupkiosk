@@ -9,11 +9,9 @@ Coordinates
     (211,480,
     266,496)
 
-4 poly (Catwalk)
-    (448,220,
-    626,223,
-    626,237,
-    448,240)
+4 rect (Catwalk)
+    (448,212,
+    627,222)
 
 5 rect (Centennial Monument)
     (358,217
