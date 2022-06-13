@@ -140,11 +140,14 @@ Coordinates
     119,274,
     106,268,
     116,253)
+
 36 circle (Gazebo)
     (495,247,
     7)
-    
-37
+
+37 rect (PUP Swimming Pool)
+    (374,64,
+    449,104)
 
 38 rect (Tennis Court)
     (500,144,
