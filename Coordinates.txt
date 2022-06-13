@@ -15,7 +15,11 @@ Coordinates
     626,237,
     448,240)
 
-5 unknown
+5 rect (Centennial Monument)
+    (358,217
+    358,235
+    339,235
+    339,217)
 
 6 poly (Charlie del Rosario Building)
     (96,175,
