@@ -1,6 +1,10 @@
 Coordinates
 1 (done)
-2
+
+2 rect
+    (175,40,
+    198,59)
+    
 3
 4
 5
