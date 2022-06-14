@@ -1,10 +1,8 @@
 header{
-    height: 50px;
-    width: 600px;
+    height: 150px;
+    width: 150px;
     margin-left: auto;
     margin-right: auto;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
     display: block;
 }
 
@@ -13,11 +11,15 @@ header img{
     width: 100%;
 }
 
+body{
+    overflow: hidden;
+}
+
 main{
     height: 700px;
     width: 524px;
-    margin-right: 1px;
-    margin-left: 200px;
+    margin-left: auto;
+    margin-right: auto;
     display: block;
 }
 
@@ -49,13 +51,4 @@ main img{
 #imgid{
     height: 100%;
     width: 80%;
-}
-
-.myBox{
-    border: none;
-    padding: 5px;
-    font: 24px/36px sans-serif;
-    width: 200px;
-    height: 200px;
-    overflow: scroll;
 }
