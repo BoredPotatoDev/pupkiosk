@@ -11,6 +11,10 @@ header img{
     width: 100%;
 }
 
+body{
+    overflow: hidden;
+}
+
 main{
     height: 700px;
     width: 524px;
