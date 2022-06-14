@@ -12,19 +12,18 @@ header img{
 }
 
 body{
-    overflow: hidden;
+    overflow: scroll;
 }
 
 main{
-    height: 700px;
-    width: 524px;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    display: block;
+    width: 700px;
 }
 
 main img{
-    margin: 10px;
+    margin: 15px;
 }
 
 #display{
