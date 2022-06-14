@@ -23,14 +23,14 @@ Coordinates
     165,246
     178,222)
     
-7 rect (East Gate)!
+7 rect (East Gate)*
     (619,458,
     644,476)
 
 8 circle (Flag Pole)
     (368,305,10)
 
-9 poly (Grandstand)*
+9 poly (Grandstand)
     (476,291,
     488,301,
     449,360,
@@ -40,7 +40,7 @@ Coordinates
     (467,56,
     579,114)
 
-11 Done
+11 Done (Chapel)
 
 12 poly (Laboratory Highschool)
     (183,204
@@ -86,7 +86,7 @@ Coordinates
     288,362,
     268,328)
 
-17 poly (South Wing)* -no desc
+17 poly (South Wing) -no desc
     (187,350,
     227,423,
     223,426,
@@ -119,11 +119,11 @@ Coordinates
 20 circle (Freedom Park)
     (384,282,7)
 
-21 (done)
+21 (done) (Ninoy Aquino Bldg.)
 
-22 (done)
+22 (done) (Basketball and Volleyball Court)
 
-23 (done)
+23 (done) (Nutrition Bldg.)
 
 24 poly (Track and Football Oval) -no desc
     (454,378,
@@ -173,7 +173,7 @@ Coordinates
 31 circle (Mural Brass Sculpture)* -no desc
     (639,251,7)
 
-32 (done)
+32 (done) (Obelisk)
 
 33 poly (Property Building)! -no desc
     (46,40,
