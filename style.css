@@ -17,7 +17,7 @@ main{
     height: 700px;
     width: 524px;
     margin-right: 1px;
-    margin-left: 620px;
+    margin-left: 200px;
     display: block;
 }
 
@@ -51,16 +51,11 @@ main img{
     width: 80%;
 }
 
-body {
-    margin-bottom: 200%;
-}
-
-    /* Box styles */
-.myBox {
+.myBox{
     border: none;
     padding: 5px;
     font: 24px/36px sans-serif;
     width: 200px;
     height: 200px;
     overflow: scroll;
-    }
+}
