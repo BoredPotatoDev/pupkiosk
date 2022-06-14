@@ -51,16 +51,15 @@ main img{
     width: 80%;
 }
 
-body {
+body{
     margin-bottom: 200%;
 }
 
-    /* Box styles */
-.myBox {
+.myBox{
     border: none;
     padding: 5px;
     font: 24px/36px sans-serif;
     width: 200px;
     height: 200px;
     overflow: scroll;
-    }
+}
