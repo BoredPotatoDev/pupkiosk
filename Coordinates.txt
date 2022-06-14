@@ -23,14 +23,14 @@ Coordinates
     165,246
     178,222)
     
-7 rect (East Gate)*
+7 rect (East Gate)!
     (619,458,
     644,476)
 
 8 circle (Flag Pole)
     (368,305,10)
 
-9 poly (Grandstand)
+9 poly (Grandstand)*
     (476,291,
     488,301,
     449,360,
@@ -40,7 +40,7 @@ Coordinates
     (467,56,
     579,114)
 
-11 Done (Chapel)
+11 Done
 
 12 poly (Laboratory Highschool)
     (183,204
@@ -63,7 +63,7 @@ Coordinates
     289,195,
     265,245)
 
-14 poly (Dome)* -no desc
+14 poly (Dome)*
     (247,328,
     269,328,
     288,363,
@@ -72,7 +72,7 @@ Coordinates
     225,363,
     247,328)
 
-15 (Pup East Wing) -no desc
+15 (done)
 
 16 poly (North Wing)
     (340,289,
@@ -86,7 +86,7 @@ Coordinates
     288,362,
     268,328)
 
-17 poly (South Wing) -no desc
+17 poly (South Wing)*
     (187,350,
     227,423,
     223,426,
@@ -119,13 +119,13 @@ Coordinates
 20 circle (Freedom Park)
     (384,282,7)
 
-21 (done) (Ninoy Aquino Bldg.)
+21 (done)
 
-22 (done) (Basketball and Volleyball Court)
+22 (done)
 
-23 (done) (Nutrition Bldg.)
+23 (done)
 
-24 poly (Track and Football Oval) -no desc
+24 poly (Track and Football Oval)
     (454,378,
     512,297,
     544,281,
@@ -144,10 +144,14 @@ Coordinates
     448,402,
     454,378)
 
-25 rect (Physical Education Building)! -no desc
+25 rect (Physical Education Building)!
     (325, 46,
     352,145)
 
+<<<<<<< HEAD
+26 circle (Pasig River)*
+    (55,401,7)
+=======
 26 poly (Pasig River)* -no desc
     (1,29,
     30,75,
@@ -163,32 +167,27 @@ Coordinates
     113,450,
     130,523,
     1,523)
+>>>>>>> 0b5c0fd85be3a9e3b742484439de61762fb149fb
 
-27 rect (PUP Sta. Mesa Ferry Station)* -no desc
+27 rect (PUP Sta. Mesa Ferry Station)*
     (142,457,
      156,509)
 
-28 poly (Access Road)! -no desc
-    (520,240,
-    543,240,
-    388,358,
-    374,350,
-    520,240)
-
+28 Access Road
 
 29 rect (Student Canteen)
     (142,240,
      148,262)
 
-30 circle (Linear Park) - no desc
+30 circle (Linear Park)
     (114,335,7)
 
-31 circle (Mural Brass Sculpture)* -no desc
+31 circle (Mural Brass Sculpture)*
     (639,251,7)
 
-32 (done) (Obelisk)
+32 (done)
 
-33 poly (Property Building)! -no desc
+33 poly (Property Building)!
     (46,40,
     87,39,
     87,47,
@@ -204,7 +203,7 @@ Coordinates
 34 circle (Pylon)
     (638,208,7)
 
-35 poly (Sampaguita Building - Univ Canteen)* -no desc
+35 poly (Sampaguita Building - Univ Canteen)*
     (116,253,
     149,273,
     129,306,
@@ -213,7 +212,7 @@ Coordinates
     106,268,
     116,253)
 
-36 circle (Gazebo)! -no desc
+36 circle (Gazebo)!
     (495,247,7)
 
 37 rect (PUP Swimming Pool)
@@ -224,7 +223,7 @@ Coordinates
     (500,144,
     552,179)
 
-39 poly (RC Overhead Water Tank)* -no desc
+39 poly (RC Overhead Water Tank)*
     (195,78,
      205,78,
      211,84,
@@ -236,6 +235,6 @@ Coordinates
      195,78
     )
 
-40 circle (Covered Walkway)! -no desc
+40 circle (Covered Walkway)!
     (643,158,
     7)
