@@ -148,8 +148,21 @@ Coordinates
     (325, 46,
     352,145)
 
-26 circle (Pasig River)* -no desc
-    (55,401,7)
+26 poly (Pasig River)* -no desc
+    (1,29,
+    30,75,
+    37,129,
+    60,190,
+    74,240,
+    74,279,
+    79,319,
+    96,335,
+    98,362,
+    109,348,
+    117,421,
+    113,450,
+    130,523,
+    1,523)
 
 27 rect (PUP Sta. Mesa Ferry Station)* -no desc
     (142,457,
