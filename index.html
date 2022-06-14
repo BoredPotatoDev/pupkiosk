@@ -18,6 +18,17 @@
                 dis.innerHTML = "<div id='wrapper'><img id='imgid' src='" + imgSource + "'>" + "<p>" + heading + "</p>" + "<p>" + description + "</p></div>";
             }
 
+            function sceneryBoxNoImg(heading, description){
+                let dis = document.getElementById("display");
+                let bod = document.getElementById("body");
+
+                bod.style.overflow = "hidden";
+                document.addEventListener('mousemove', displayFollowCamera);
+                dis.style.left = event.clientX + 5 + "px";
+                dis.style.tope = event.clientY + 5 + "px";
+                dis.innerHTML = "<div id = 'wrapper'>" + "<p>" + heading + "</p>" + description + "</p></div>"
+                    }
+
             function displayFollowCamera(){
                 let b = document.getElementById('display');
                 b.style.left = event.clientX + 5 + "px";
@@ -275,7 +286,7 @@
                                         182,351" 
                         href="#" 
                         alt="PUP South Wing" 
-                        onmouseover="showSceneryBox('images/pupsouth.jpg', 'PUP South Wing', 'Test Description')" 
+                        onmouseover="sceneryBoxNoImg('PUP South Wing', 'Test Description')" 
                         onmouseout="removeSceneryBox()"> 
 
                 <!--18 PUP West Wing-->
