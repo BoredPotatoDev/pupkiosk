@@ -220,4 +220,3 @@ Coordinates
 40 circle (Covered Walkway)!
     (643,158,
     7)
-wait test
