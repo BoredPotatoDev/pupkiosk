@@ -26,8 +26,19 @@
                 document.addEventListener('mousemove', displayFollowCamera);
                 dis.style.left = event.clientX + 5 + "px";
                 dis.style.tope = event.clientY + 5 + "px";
-                dis.innerHTML = "<div id = 'wrapper'>" + "<p>" + heading + "</p>" + description + "</p></div>"
-                    }
+                dis.innerHTML = "<div id = 'wrapper2'>" + "<p>" + heading + "</p>" + description + "</p></div>"
+           }
+
+           function showLongText(imgSource, heading, description){
+                let dis = document.getElementById("display");
+                let bod = document.getElementById("body");
+
+                bod.style.overflow = "hidden";
+                document.addEventListener('mousemove', displayFollowCamera);
+                dis.style.left = event.clientX + 5 + "px";
+                dis.style.top = event.clientY + 5 + "px";
+                dis.innerHTML = "<div id='wrapper3'><img id='imgid' src='" + imgSource + "'>" + "<p>" + heading + "</p>" + "<p>" + description + "</p></div>";
+           }
 
             function displayFollowCamera(){
                 let b = document.getElementById('display');
@@ -112,7 +123,7 @@
                         627,222" 
                 href="#" 
                 alt="Catwalk" 
-                onmouseover="showSceneryBox('images/pupcatwalk.jpg',
+                onmouseover="showLongText('images/pupcatwalk.jpg',
                                             'Catwalk',
                                             'A very known street near the campus. Lots of gimmicks are held in this street by our fellow isko and iska especially busking! Also, this street is known for having isko and iska getting tripped over the unevent pavements of the said catwalk.')"              
                 onmouseout="removeSceneryBox()">
@@ -244,7 +255,7 @@
                         alt="Dome" 
                         onmouseover="showSceneryBox('images/pupdome.jpg', 
                                                     'PUP Dome', 
-                                                    'Test Description')" 
+                                                    'Located in the middle of the main building of PUP')" 
                         onmouseout="removeSceneryBox()">
                 
                 <!--15 PUP East Wing-->
@@ -419,7 +430,7 @@
                                 454,378" 
                         href="#" 
                         alt="Track and Football Oval" 
-                        onmouseover="showSceneryBox('images/pupoval.jpg', 
+                        onmouseover="showLongText('images/pupoval.jpg', 
                                                     'Track and Football Oval', 
                                                     'Nearest location when entering through the East Gate, aside from the Gymnasium, this is also the training grounds of our PUP Mighty Maroons and our fellow isko and iska during practices for events')" 
                         onmouseout="removeSceneryBox()">
@@ -652,7 +663,7 @@
                        <tr>
                         <td>3 - Campus Development and Maintenance Building</td>
                         <td>13 - PUP Lagoon</td>
-                        <td>23 - Nutrtition and Food Science Building</td>
+                        <td>23 - Nutrition and Food Science Building</td>
                         <td>33 - Property Building</td>
                        </tr>
 
