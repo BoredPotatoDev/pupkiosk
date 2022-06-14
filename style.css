@@ -12,7 +12,7 @@ header img{
 }
 
 body{
-    overflow: hidden;
+    overflow: scroll;
 }
 
 main{
