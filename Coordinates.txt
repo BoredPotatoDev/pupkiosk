@@ -63,7 +63,7 @@ Coordinates
     289,195,
     265,245)
 
-14 poly (Dome)*
+14 poly (Dome)* -no desc
     (247,328,
     269,328,
     288,363,
@@ -72,7 +72,7 @@ Coordinates
     225,363,
     247,328)
 
-15 (done)
+15 (Pup East Wing) -no desc
 
 16 poly (North Wing)
     (340,289,
@@ -86,7 +86,7 @@ Coordinates
     288,362,
     268,328)
 
-17 poly (South Wing)*
+17 poly (South Wing)* -no desc
     (187,350,
     227,423,
     223,426,
@@ -125,7 +125,7 @@ Coordinates
 
 23 (done)
 
-24 poly (Track and Football Oval)
+24 poly (Track and Football Oval) -no desc
     (454,378,
     512,297,
     544,281,
@@ -144,37 +144,38 @@ Coordinates
     448,402,
     454,378)
 
-25 rect (Physical Education Building)!
+25 rect (Physical Education Building)! -no desc
     (325, 46,
     352,145)
 
-26 circle (Pasig River)*
+26 circle (Pasig River)* -no desc
     (55,401,7)
 
-27 rect (PUP Sta. Mesa Ferry Station)*
+27 rect (PUP Sta. Mesa Ferry Station)* -no desc
     (142,457,
      156,509)
 
-28 poly (Access Road)
-    (520,242,
-    527,253,
-    338,359,
-    373,350)
+28 poly (Access Road)! -no desc
+    (520,240,
+    543,240,
+    388,358,
+    374,350,
+    520,240)
 
 
 29 rect (Student Canteen)
     (142,240,
      148,262)
 
-30 circle (Linear Park)
+30 circle (Linear Park) - no desc
     (114,335,7)
 
-31 circle (Mural Brass Sculpture)*
+31 circle (Mural Brass Sculpture)* -no desc
     (639,251,7)
 
 32 (done)
 
-33 poly (Property Building)!
+33 poly (Property Building)! -no desc
     (46,40,
     87,39,
     87,47,
@@ -190,7 +191,7 @@ Coordinates
 34 circle (Pylon)
     (638,208,7)
 
-35 poly (Sampaguita Building - Univ Canteen)*
+35 poly (Sampaguita Building - Univ Canteen)* -no desc
     (116,253,
     149,273,
     129,306,
@@ -199,7 +200,7 @@ Coordinates
     106,268,
     116,253)
 
-36 circle (Gazebo)!
+36 circle (Gazebo)! -no desc
     (495,247,7)
 
 37 rect (PUP Swimming Pool)
@@ -210,7 +211,7 @@ Coordinates
     (500,144,
     552,179)
 
-39 poly (RC Overhead Water Tank)*
+39 poly (RC Overhead Water Tank)* -no desc
     (195,78,
      205,78,
      211,84,
@@ -222,6 +223,6 @@ Coordinates
      195,78
     )
 
-40 circle (Covered Walkway)!
+40 circle (Covered Walkway)! -no desc
     (643,158,
     7)
