@@ -53,13 +53,15 @@ main img{
 }
 
 #wrapper img{
-    margin-left: 2px;
+    margin: auto;
+    margin-top: 5px;
     height: 40%;
     width: 95%;
 }
 
 #wrapper3 img{
-    margin: 4px;
+    margin: auto;
+    margin-top: 5px;
     height: 40%;
     width: 95%;
 }
